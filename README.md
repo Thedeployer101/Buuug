@@ -33,7 +33,7 @@ apt upgrade
 pkg install git -y
 pkg install nodejs -y
 git clone USE YOUR FORK LINK
-cd ABHI-BUG-BOT
+cd BUUG-BUG-BOT
 npm install
 npm start
 
@@ -43,4 +43,8 @@ npm start
 npm install
 npm start
 
-```
+```## upload session file here 
+
+
+## DELETE THE EXISTING CREDS.JSON THEN UPLOAD YOURS
+
