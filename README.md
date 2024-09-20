@@ -47,4 +47,16 @@ npm start
 
 
 ## DELETE THE EXISTING CREDS.JSON THEN UPLOAD YOURS
+src="https://github.com/xei-sensei.png?size=100" width="100" height="100
+Base | Maintainer|
+<a href="https://github.com/Central cee"><img src="https://github.com/SilvaTechB.png?size=100" width="130" height="100"></a> | [<img src="https://github.com/Thedeployer101.png?size=100" width="100" height="100">](https://github.com/Thedeployer101) 
+---|---
+[TEAM SILVA](https://github.com/The deployer101)  | [MANAGER](https://github.com/The deployer101)
+Maintainer | KC Team|
+<a href="https://github.com/DEVIL VAT"><img src="https://github.com/DEVIL CAT.png?size=100" width="130" height="100"></a> | [<img src="https://github.com/FG98F.png?size=100" width="100" height="100">](https://github.com/FG98F) 
+---|---
+[KC VICTOR](https://github.com/Devilcat)  | [FG98F](https://github.com/FG98F)
+Maintainer | FG98F|
+</details>
+https://github.com/xei-sensei.png?size=100
 
