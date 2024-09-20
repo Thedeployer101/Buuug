@@ -43,7 +43,7 @@ npm start
 npm install
 npm start
 
-```## upload session file here 
+```## 'upload session file here' 
 
 
 ## DELETE THE EXISTING CREDS.JSON THEN UPLOAD YOURS
