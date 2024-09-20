@@ -5,7 +5,7 @@ Baddest bug bot
   
 <p align="center">  
   <a 
-    <img alt=BUUG-BUG-BOTheight="300" src="https://i.ibb.co/7bPPRQ0/4bf4b7e0b042.jpg">
+    <img src"BUUG-BOT" alt=BUUG-BUG-BOTheight="300" src="https://i.ibb.co/7bPPRQ0/4bf4b7e0b042.jpg">
    
 </a> 
     
